@@ -7,7 +7,7 @@
     <URLs>
       <URL>https://raw.githubusercontent.com/Synthian/LiveSplit.Bastion/master/Components/LiveSplit.Bastion.dll</URL>
     </URLs>
-    <Type>Component</Type>asdfasdfasdf
+    <Type>Component</Type>
     <Description>Auto Splitting is available. (by IanSynth)</Description>
     <Website>https://github.com/Synthian/LiveSplit.Bastion</Website>
   </AutoSplitter>
